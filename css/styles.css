@@ -10133,3 +10133,17 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.for_slick_slider{
+    display: flex;
+}
+.for_slick_slider .items{
+    width: 300px;
+    height: 350px;
+    margin: 0px 10px 30px 10px;
+}
+.for_slick_slider .items img{
+    width: 300px;
+    height: 350px;
+    image-rendering: auto;
+}
