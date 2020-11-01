@@ -10105,6 +10105,7 @@ p.lead {
 
 .dev-icons {
   font-size: 3rem;
+  margin-bottom: 10px;
 }
 
 section.resume-section {
@@ -10150,4 +10151,18 @@ section.resume-section .resume-section-content {
 
 .profileTitle{
     font-size: 25px;
+}
+
+.skillicon{
+    width: 75px;
+}
+
+.skilltitle{
+    font-size: 20px;
+    margin: 0;
+    color: #bd5d38;
+}
+
+.skilliconhr{
+    margin-top: 20px;
 }
