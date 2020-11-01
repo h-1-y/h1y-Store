@@ -10147,3 +10147,7 @@ section.resume-section .resume-section-content {
     height: 350px;
     image-rendering: auto;
 }
+
+.profileTitle{
+    font-size: 25px;
+}
